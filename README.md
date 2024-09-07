@@ -1,0 +1,1 @@
+O projeto neste repositório exibe um código python interativo que simula operações corriqueiras de um banco, como saque, depósito e retirada de extrato. Também simula parâmetros específicos do projeto como limite de saque e número de saques diários.
